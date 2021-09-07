@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp\\API\\API.csproj": {}
+    "e:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp\\API\\API.csproj": {
+    "e:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "e:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp\\API\\API.csproj",
+        "projectPath": "e:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\popes\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp\\API\\obj\\",
+        "outputPath": "e:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\popes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj": {}
+    "E:\\Projects\\.NET+ANGULAR PROJECT-BACKEND\\DatingApp-API\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj": {
+    "E:\\Projects\\.NET+ANGULAR PROJECT-BACKEND\\DatingApp-API\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\Projects\\.NET+ANGULAR PROJECT-BACKEND\\DatingApp-API\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\API.csproj",
+        "projectPath": "E:\\Projects\\.NET+ANGULAR PROJECT-BACKEND\\DatingApp-API\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\popes\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\.NET+ANGULAR PROJECT\\DatingApp-API\\DatingApp\\API\\obj\\",
+        "outputPath": "E:\\Projects\\.NET+ANGULAR PROJECT-BACKEND\\DatingApp-API\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\popes\\AppData\\Roaming\\NuGet\\NuGet.Config",
